@@ -1,10 +1,10 @@
 # Regression
-#Predicting weights of fishes using linear regression
+# Predicting weights of fishes using linear regression
 
-#Objective : 
+# Objective : 
 In data we have total 7 fish species in a fish market and observation of 159 fishes.
 Our objective is estimate the weight of fish with help of other  given variables.
-#Dataset Contains : 
+# Dataset Contains : 
 1.Species : species name of fish
 2.Weight(y) : weight of fish in gram(gm)
 3.Lenght1(x1) : vertical length in cm

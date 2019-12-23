@@ -1,5 +1,5 @@
 # Regression
-# Predicting weights of fishes using linear regression
+# Predicting weights of fishes using linear regression in R Studio
 
 # Objective : 
 In data we have total 7 fish species in a fish market and observation of 159 fishes.
